@@ -1,0 +1,52 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+    border: none;
+}
+
+.card-header {
+    font-weight: 600;
+}
+
+.original-domain {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.homograph-domain {
+    font-size: 1.1rem;
+}
+
+.badge {
+    font-weight: 500;
+}
+
+#resultsTable th {
+    font-weight: 600;
+    background-color: #f1f1f1;
+}
+
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+.alert {
+    border-radius: 8px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(13, 110, 253, 0.05);
+}
+
+code {
+    color: #d63384;
+    background-color: #f8f9fa;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
